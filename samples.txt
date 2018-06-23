@@ -1,0 +1,98 @@
+[
+	{
+		"ru": "Мы имеем двоих детей",
+		"en": "We have two children"
+	},
+	{
+		"ru": "У неё есть сын но нет дочери",
+		"en": "She has a son, but has not a daughter"
+	},
+	{
+		"ru": "Наш ребёнок не имеет такой привычки",
+		"en": "Our child has not got such a habit"
+	},
+	{
+		"ru": "Я из Харькова",
+		"en": "I am from Kharkiv."
+	},
+	{
+		"ru": "Откуда их семья?",
+		"en": "Where is their family from?"
+	},
+	{
+		"ru": "Мы не киевляне",
+		"en": "We are not people who live in Kiev."
+	},
+	{
+		"ru": "Эти книги интересные, а те скучные.",
+		"en": "These books are interesting, but those are boring."
+	},
+	{
+		"ru": "У тебя есть идея?",
+		"en": "Have you an idea?"
+	},
+	{
+		"ru": "У него есть щенок?",
+		"en": "Has he a puppy?"
+	},
+	{
+		"ru": "У нас нет ответа на этот вопрос.",
+		"en": "We have not an answer for this question."
+	},
+	{
+		"ru": "Её лицо - красивое и привлекательное.",
+		"en": "Her face is beautiful and attractive."
+	},
+	{
+		"ru": "Он - не её дядя.",
+		"en": "He is not her uncle."
+	},
+	{
+		"ru": "Она твоя жена?",
+		"en": "Is she your wife?"
+	},
+	{
+		"ru": "Почему ты не спрашиваешь об этом?",
+		"en": "Why don't you ask about it?"
+	},
+	{
+		"ru": "Как часто он посещает это место?",
+		"en": "How often does he visit this place?"
+	},
+	{
+		"ru": "У тебя есть правило или нет?",
+		"en": "Have you got a rule or not?"
+	},
+	{
+		"ru": "У неё много принципов, не так ли?",
+		"en": "She has many principles, hasn't she?"
+	},
+	{
+		"ru": "",
+		"en": ""
+	},
+	{
+		"ru": "",
+		"en": ""
+	},
+	{
+		"ru": "",
+		"en": ""
+	},
+	{
+		"ru": "",
+		"en": ""
+	},
+	{
+		"ru": "",
+		"en": ""
+	},
+	{
+		"ru": "",
+		"en": ""
+	},
+	{
+		"ru": "",
+		"en": ""
+	}
+]
