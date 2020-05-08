@@ -1,0 +1,94 @@
+[
+	{
+		"infinitive": "lay",
+		"past-simple": "laid",
+		"past-participle": "laid",
+		"translations": [
+			{
+				"language": "ukrainian",
+				"variants": [
+					"класти",
+					"накривати"
+				]
+			}
+		]
+	},
+	{
+		"infinitive": "pay",
+		"past-simple": "paid",
+		"past-participle": "paid",
+		"translations": [
+			{
+				"language": "ukrainian",
+				"variants": [
+					"платити"
+				]
+			}
+		]
+	},
+	{
+		"infinitive": "say",
+		"past-simple": "said",
+		"past-participle": "said",
+		"translations": [
+			{
+				"language": "ukrainian",
+				"variants": [
+					"говорити",
+					"сказати",
+					"мовити"
+				]
+			}
+		]
+	},
+	{
+		"infinitive": "sell",
+		"past-simple": "sold",
+		"past-participle": "sold",
+		"translations": [
+			{
+				"language": "ukrainian",
+				"variants": [
+					"продавати",
+					"торгувати"
+				]
+			}
+		]
+	},
+	{
+		"infinitive": "tell",
+		"past-simple": "told",
+		"past-participle": "told",
+		"translations": []
+	},
+	{
+		"infinitive": "retell",
+		"past-simple": "retold",
+		"past-participle": "retold",
+		"translations": []
+	},
+	{
+		"infinitive": "",
+		"past-simple": "",
+		"past-participle": "",
+		"translations": []
+	},
+	{
+		"infinitive": "",
+		"past-simple": "",
+		"past-participle": "",
+		"translations": []
+	},
+	{
+		"infinitive": "",
+		"past-simple": "",
+		"past-participle": "",
+		"translations": []
+	},
+	{
+		"infinitive": "",
+		"past-simple": "",
+		"past-participle": "",
+		"translations": []
+	}
+]
