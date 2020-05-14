@@ -1,14 +1,16 @@
 package main
 
 import (
+	"bufio"
 	"flag"
 	"fmt"
-	"log"
 	"math/rand"
-	"time"
+	"os"
+	"strings"
 )
 
 func main() {
+
 	var filename string
 	flag.StringVar(&filename, "filename", "irregular_verbs.csv", "verbs source file name")
 	flag.Parse()
@@ -16,110 +18,96 @@ func main() {
 	vs, err := LoadVerbs(filename)
 	checkError(err)
 
-	runTest(vs)
+	// for _, v := range vs {
+	// 	fmt.Println(v)
+	// }
+	// return
+
+	err = runTest(vs)
+	checkError(err)
 }
 
-func checkError(err error) {
-	if err != nil {
-		log.Fatal(err)
-	}
-}
-
-type Translation struct {
-	Language string   `json:"language"`
-	Variants []string `json:"variants"`
-	// Samples  []string `json:"samples"`
-}
-
-func runTest(vs []Verb) {
+func runTest(vs []Verb) error {
 
 	r := randNow()
-	ds := makeSerialInts(3)
+
+	vfs := verbForms
+	br := bufio.NewReader(os.Stdin)
+
+	const prefix = "\t"
+
+	var (
+		v  = vs[r.Intn(len(vs))]
+		vf = vfs[r.Intn(len(vfs))]
+	)
 
 	for {
 
-		v := vs[r.Intn(len(vs))]
+		fmt.Printf("Enter %d forms of the verb %q (%s): ", len(vfs), v.Value(vf), vf)
+		//fmt.Print("\n> ")
 
-		if v.Infinitive == "" {
+		lineBytes, _, err := br.ReadLine()
+		if err != nil {
+			return err
+		}
+
+		line := string(lineBytes)
+		if (line == "quit") || (line == "exit") {
+			break
+		}
+
+		if line == "stat" {
 			continue
 		}
 
-		Scramble(r, IntSlice(ds))
+		fields := strings.Fields(line)
+		//fmt.Println("fields:", fields, line)
+		if len(fields) != len(vfs) {
+			fmt.Println()
+			fmt.Printf("%sYou mast enter %d forms of the verb\n", prefix, len(vfs))
+			fmt.Println()
+			continue
+		}
 
-		t0 := indexToString(ds[0])
-		v0 := indexToValue(ds[0], v)
+		var success bool = true
+		for i, vf := range vfs {
+			if fields[i] != v.Value(vf) {
+				success = false
+				break
+			}
+		}
 
-		t1 := indexToString(ds[1])
-		v1 := indexToValue(ds[1], v)
-
-		fmt.Printf("%s:%q, %s - ?\n", t0, v0, t1)
-		fmt.Print("> ")
-
-		var line string
-		fmt.Scanln(&line)
-
-		if line != v1 {
-			fmt.Printf("  wrong! it is %q\n", v1)
+		fmt.Println()
+		if success {
+			fmt.Printf("%s%s\n", prefix, rightString(r))
 		} else {
-			fmt.Println("  right")
+			var vs []string
+			for _, vf := range vfs {
+				vs = append(vs, v.Value(vf))
+			}
+			fmt.Printf("%sWrong! There are: %s\n", prefix, strings.Join(vs, " "))
 		}
 		fmt.Println()
+
+		v = vs[r.Intn(len(vs))]
+		vf = vfs[r.Intn(len(vfs))]
 	}
+	return nil
 }
 
-func randNow() *rand.Rand {
-	return rand.New(rand.NewSource(time.Now().UnixNano()))
+var rights = []string{
+	"Right",
+	"Good",
+	"Very good",
+	"Success",
 }
 
-func makeSerialInts(n int) []int {
-	ds := make([]int, n)
-	for i := range ds {
-		ds[i] = i
-	}
-	return ds
+func rightString(r *rand.Rand) string {
+	return rights[r.Intn(len(rights))]
 }
 
-type Swapper interface {
-	Len() int
-	Swap(i, j int)
-}
-
-type IntSlice []int
-
-var _ Swapper = IntSlice(nil)
-
-func (p IntSlice) Len() int      { return len(p) }
-func (p IntSlice) Swap(i, j int) { p[i], p[j] = p[j], p[i] }
-
-func Scramble(r *rand.Rand, p Swapper) {
-	for n := p.Len(); n > 1; n-- {
-		i := r.Intn(n)
-		p.Swap(i, n-1)
-	}
-}
-
-func indexToString(i int) string {
-	switch i {
-	case 0:
-		return "infinitive"
-	case 1:
-		return "past-simple"
-	case 2:
-		return "past-participle"
-	default:
-		return "unknown"
-	}
-}
-
-func indexToValue(i int, v Verb) string {
-	switch i {
-	case 0:
-		return v.Infinitive
-	case 1:
-		return v.PastSimple
-	case 2:
-		return v.PastParticiple
-	default:
-		return "unknown"
-	}
+func randVerbAndForm(r *rand.Rand, vs []Verb, vfs []VerbForm) (v Verb, vf VerbForm) {
+	v = vs[r.Intn(len(vs))]
+	vf = vfs[r.Intn(len(vfs))]
+	return
 }

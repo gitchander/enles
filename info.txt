@@ -1,3 +1,5 @@
+Source of irregular_verbs.csv: https://www.englishpage.com/irregularverbs/irregularverbs.html
+
 https://en.wikipedia.org/wiki/Phonetic_transcription
 https://en.wikipedia.org/wiki/Help:IPA/English
 https://en.wikipedia.org/wiki/Americanist_phonetic_notation
