@@ -5,28 +5,38 @@ import (
 	"strings"
 )
 
+const (
+	valuesSeparator = "/"
+)
+
 func parseRecordVerb(record []string) ([][]*WordInfo, error) {
 	n := len(verbForms)
 	if len(record) != n {
 		return nil, fmt.Errorf("wrong number of fields for record: have %d, want %d", len(record), n)
 	}
-	var ws [][]*WordInfo
+	ws := make([][]*WordInfo, n)
 	for i := range verbForms {
 		w, err := parseField(record[i])
 		if err != nil {
+			err = fmt.Errorf("field index %d: %s", i, err)
 			return nil, err
 		}
-		ws = append(ws, w)
+		ws[i] = w
 	}
 	return ws, nil
 }
 
+// parse variants of the verb form
 func parseField(field string) ([]*WordInfo, error) {
+	if field == "" {
+		return nil, fmt.Errorf("field is empty")
+	}
 	var wis []*WordInfo
-	ws := strings.Split(field, "/")
-	for _, w := range ws {
-		wi, err := ParseWordInfo(w)
+	vs := strings.Split(field, valuesSeparator)
+	for _, v := range vs {
+		wi, err := ParseWordInfo(v)
 		if err != nil {
+			err = fmt.Errorf("word tag %q: %s", v, err)
 			return nil, err
 		}
 		wis = append(wis, wi)
@@ -36,12 +46,14 @@ func parseField(field string) ([]*WordInfo, error) {
 
 type WordInfo struct {
 	Word          string `json:"word"`
-	Note          string `json:"note,omitempty"`          // ( note )
-	Transcription string `json:"transcription,omitempty"` // [ transcription ]
+	Note          string `json:"note,omitempty"`
+	Transcription string `json:"transcription,omitempty"`
 	Regular       bool   `json:"regular,omitempty"`
 }
 
 func ParseWordInfo(s string) (*WordInfo, error) {
+
+	var wi WordInfo
 
 	s = strings.TrimSpace(s)
 	f := func(r rune) bool {
@@ -49,17 +61,18 @@ func ParseWordInfo(s string) (*WordInfo, error) {
 	}
 	index := strings.IndexFunc(s, f)
 	if index == -1 {
-		wi := &WordInfo{
-			Word: s,
+		wi.Word = s
+		if wi.Word == "" {
+			return nil, fmt.Errorf("word is not exist")
 		}
-		return wi, nil
+		return &wi, nil
 	}
-	word := s[:index]
+	wi.Word = s[:index]
 	s = s[index:]
 
-	var note string
-	var transcription string
-	var regular bool
+	if wi.Word == "" {
+		return nil, fmt.Errorf("word is not exist")
+	}
 
 	for len(s) > 0 {
 		s = strings.TrimSpace(s)
@@ -73,7 +86,7 @@ func ParseWordInfo(s string) (*WordInfo, error) {
 			if index == -1 {
 				return nil, fmt.Errorf("there isn't close bracket %q", ')')
 			}
-			note = s[1:index]
+			wi.Note = s[1:index]
 			s = s[index+1:]
 
 		} else if s[0] == '[' {
@@ -82,13 +95,13 @@ func ParseWordInfo(s string) (*WordInfo, error) {
 			if index == -1 {
 				return nil, fmt.Errorf("there isn't close bracket %q", ']')
 			}
-			transcription = s[1:index]
+			wi.Transcription = s[1:index]
 			s = s[index+1:]
 
 		} else {
 			strRegular := "REGULAR"
 			if strings.HasPrefix(s, strRegular) {
-				regular = true
+				wi.Regular = true
 				s = s[len(strRegular):]
 			} else {
 				return nil, fmt.Errorf("wrong tag: %q", s)
@@ -96,14 +109,7 @@ func ParseWordInfo(s string) (*WordInfo, error) {
 		}
 	}
 
-	wi := &WordInfo{
-		Word:          word,
-		Note:          note,
-		Transcription: transcription,
-		Regular:       regular,
-	}
-
-	return wi, nil
+	return &wi, nil
 }
 
 // unicode.IsSpace()

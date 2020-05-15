@@ -1,0 +1,42 @@
+build,built,built
+burn,"burned/burnt","burned/burnt"
+burst,burst,burst
+bust,"busted/bust","busted/bust"
+buy,bought,bought
+cast,cast,cast
+"catch [æ]","caught [ɔ:]","caught [ɔ:]"
+choose,chose,chosen
+cling,clung,clung
+clothe,"clothed/clad","clothed/clad"
+"come [ʌ]","came [ei]","come [ʌ]"
+cost,cost,cost
+creep,crept,crept
+crossbreed,crossbred,crossbred
+cut,cut,cut
+daydream,"daydreamed/daydreamt","daydreamed/daydreamt"
+deal,dealt,dealt
+dig,dug,dug
+
+
+bust,"busted//bust","busted//bust"
+"catch [æ]","caught [ɔ:]","caught [ɔ:]"
+
+
+"catch [æ]","caught [ɔ:] / lovit (title)","caught [ɔ:]"
+"catch/[æ]","caught/[ɔ:],lovit/(title)","caught [ɔ:]"
+"catch;[æ]","caught;[ɔ:]</>lovit;(title)","caught;[ɔ:]"
+"catch,[æ]","caught,[ɔ:],(hello)/lovit,(title),[au]","caught;[ɔ:]"
+
+"refit (replace parts)","refit/refitted","refit/refitted"
+
+
+"wet","wet/wetted","wet/wetted"
+"whet,REGULAR",whetted,whetted
+win,won,won
+wind,wound,wound
+"withdraw,[ɔ:]","withdrew,[u:]","withdrawn,[ɔ:]"
+withhold,withheld,withheld
+
+lie (not tell truth) REGULAR,lied,lied
+
+"lie,(not tell truth),REGULAR",lied,lied

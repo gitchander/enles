@@ -100,7 +100,7 @@ func loadVerbsStandatdCSV(filename string, keys []string) ([]Verb, error) {
 	}
 	var vs []Verb
 	var v Verb
-	for {
+	for line := 2; ; line++ {
 		record, err := r.Read()
 		if err != nil {
 			if err == io.EOF {
@@ -110,6 +110,7 @@ func loadVerbsStandatdCSV(filename string, keys []string) ([]Verb, error) {
 		}
 		ws, err := parseRecordVerb(record)
 		if err != nil {
+			err = fmt.Errorf("record on line %d: %s", line, err)
 			return nil, err
 		}
 
