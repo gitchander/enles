@@ -10,21 +10,21 @@ import (
 )
 
 func main() {
-
 	var filename string
 	flag.StringVar(&filename, "filename", "irregular_verbs.csv", "verbs source file name")
 	flag.Parse()
 
+	err := test1(filename)
+	//err := test2(filename)
+	checkError(err)
+}
+
+func test1(filename string) error {
 	vs, err := LoadVerbs(filename)
-	checkError(err)
-
-	// for _, v := range vs {
-	// 	fmt.Println(v)
-	// }
-	// return
-
-	err = runTest(vs)
-	checkError(err)
+	if err != nil {
+		return err
+	}
+	return runTest(vs)
 }
 
 func runTest(vs []Verb) error {

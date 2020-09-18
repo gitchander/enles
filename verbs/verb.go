@@ -77,14 +77,13 @@ func LoadVerbs(filename string) ([]Verb, error) {
 	case ".json":
 		return loadVerbsJSON(filename)
 	case ".csv":
-		//return loadVerbsCSV(filename)
-		return loadVerbsStandatdCSV(filename, nil)
+		return loadVerbsV1CSV(filename, nil)
 	default:
 	}
 	return nil, fmt.Errorf("file %q is not support", filename)
 }
 
-func loadVerbsStandatdCSV(filename string, keys []string) ([]Verb, error) {
+func loadVerbsV1CSV(filename string, keys []string) ([]Verb, error) {
 	file, err := os.Open(filename)
 	if err != nil {
 		return nil, err

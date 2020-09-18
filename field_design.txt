@@ -40,3 +40,34 @@ withhold,withheld,withheld
 lie (not tell truth) REGULAR,lied,lied
 
 "lie,(not tell truth),REGULAR",lied,lied
+
+//------------------------------------------------------------------------------
+design verb in json:
+
+{
+	"regular": false,
+	"note": "",
+	"forms": [
+		{
+			"verb_form": "infinitive",
+			"variants": [
+				{
+					"word": "begin",
+					"transcription": "i"
+				}
+			]
+		},
+		{
+			"verb_form": "simple-past",
+			"word": "began",
+			"transcription": "æ"
+		},
+		{
+			"verb_form": "past-participle"
+			"word": "begun",
+			"transcription": "ʌ"
+		}
+	]
+}
+
+//------------------------------------------------------------------------------

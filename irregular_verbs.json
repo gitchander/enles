@@ -1,0 +1,11013 @@
+[
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "arise"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "arose"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "arisen"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "awake",
+						"transcription": "ei"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "awakened"
+					},
+					{
+						"word": "awoke",
+						"transcription": "ou"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "awakened"
+					},
+					{
+						"word": "awoken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "backslide"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "backslid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "backslidden"
+					},
+					{
+						"word": "backslid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "be"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "was",
+						"note": "he, she, it"
+					},
+					{
+						"word": "were",
+						"note": "you, we, they"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "been"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "bear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "bore"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "born"
+					},
+					{
+						"word": "borne"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "beat"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "beat"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "beaten"
+					},
+					{
+						"word": "beat"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "become",
+						"transcription": "ʌ"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "became",
+						"transcription": "ei"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "become",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "begin",
+						"transcription": "i"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "began",
+						"transcription": "æ"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "begun",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "bend"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "bent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "bent"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "bet"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "bet"
+					},
+					{
+						"word": "betted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "bet"
+					},
+					{
+						"word": "betted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "bid",
+						"note": "farewell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "bid"
+					},
+					{
+						"word": "bade"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "bidden"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "bid",
+						"note": "offer amount"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "bid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "bid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "bind"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "bound"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "bound"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "bite"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "bit"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "bitten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "bleed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "bled"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "bled"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "blow",
+						"transcription": "ou"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "blew",
+						"transcription": "u"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "blown",
+						"transcription": "ou"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "break"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "broke"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "broken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "breed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "bred"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "bred"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "bring"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "brought"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "brought"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "broadcast"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "broadcast"
+					},
+					{
+						"word": "broadcasted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "broadcast"
+					},
+					{
+						"word": "broadcasted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "browbeat"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "browbeat"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "browbeaten"
+					},
+					{
+						"word": "browbeat"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "build"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "built"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "built"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "burn"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "burned"
+					},
+					{
+						"word": "burnt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "burned"
+					},
+					{
+						"word": "burnt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "burst"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "burst"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "burst"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "bust"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "busted"
+					},
+					{
+						"word": "bust"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "busted"
+					},
+					{
+						"word": "bust"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "buy"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "bought"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "bought"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "cast"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "cast"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "cast"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "catch",
+						"transcription": "æ"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "caught",
+						"transcription": "ɔ:"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "caught",
+						"transcription": "ɔ:"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "choose"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "chose"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "chosen"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "cling"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "clung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "clung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "clothe"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "clothed"
+					},
+					{
+						"word": "clad"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "clothed"
+					},
+					{
+						"word": "clad"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "come",
+						"transcription": "ʌ"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "came",
+						"transcription": "ei"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "come",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "cost"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "cost"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "cost"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "creep"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "crept"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "crept"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "crossbreed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "crossbred"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "crossbred"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "cut"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "cut"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "cut"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "daydream"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "daydreamed"
+					},
+					{
+						"word": "daydreamt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "daydreamed"
+					},
+					{
+						"word": "daydreamt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "deal"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "dealt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "dealt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "dig"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "dug"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "dug"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "disprove"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "disproved"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "disproved"
+					},
+					{
+						"word": "disproven"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "dive",
+						"note": "jump head-first"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "dove"
+					},
+					{
+						"word": "dived"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "dived"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "dive",
+						"note": "scuba diving"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "dived"
+					},
+					{
+						"word": "dove"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "dived"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "do"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "did"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "done"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "draw",
+						"transcription": "ɔ:"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "drew",
+						"transcription": "u:"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "drawn",
+						"transcription": "ɔ:"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "dream"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "dreamed"
+					},
+					{
+						"word": "dreamt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "dreamed"
+					},
+					{
+						"word": "dreamt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "drink",
+						"transcription": "i"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "drank",
+						"transcription": "æ"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "drunk",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "drive"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "drove"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "driven"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "dwell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "dwelt"
+					},
+					{
+						"word": "dwelled"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "dwelt"
+					},
+					{
+						"word": "dwelled"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "eat"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "ate"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "eaten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "fall"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "fell"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "fallen"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "feed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "fed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "fed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "feel"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "felt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "felt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "fight"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "fought"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "fought"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "find"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "found"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "found"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "fit",
+						"note": "tailor, change size"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "fitted"
+					},
+					{
+						"word": "fit"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "fitted"
+					},
+					{
+						"word": "fit"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "fit",
+						"note": "be right size"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "fit"
+					},
+					{
+						"word": "fitted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "fit"
+					},
+					{
+						"word": "fitted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "flee"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "fled"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "fled"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "fling"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "flung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "flung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "fly",
+						"transcription": "ai"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "flew",
+						"transcription": "u"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "flown",
+						"transcription": "ou"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "forbid",
+						"transcription": "i"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "forbade",
+						"transcription": "ai"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "forbidden",
+						"transcription": "æ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "forecast"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "forecast"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "forecast"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "forego",
+						"note": "also forgo"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "forewent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "foregone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "foresee",
+						"transcription": "i:"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "foresaw",
+						"transcription": "ɔ:"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "foreseen",
+						"transcription": "i:"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "foretell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "foretold"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "foretold"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "forget"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "forgot"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "forgotten"
+					},
+					{
+						"word": "forgot"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "forgive",
+						"transcription": "i"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "forgave",
+						"transcription": "ei"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "forgiven",
+						"transcription": "i"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "forsake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "forsook"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "forsaken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "freeze"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "froze"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "frozen"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "frostbite"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "frostbit"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "frostbitten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "get"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "got"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "gotten"
+					},
+					{
+						"word": "got"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "give",
+						"transcription": "i"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "gave",
+						"transcription": "ei"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "given",
+						"transcription": "i"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "go"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "went"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "gone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "grind"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "ground"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "ground"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "grow",
+						"transcription": "ou"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "grew",
+						"transcription": "u"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "grown",
+						"transcription": "ou"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "hand-feed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "hand-fed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "hand-fed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "handwrite"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "handwrote"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "handwritten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "hang"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "hung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "hung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "have"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "had"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "had"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "hear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "heard"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "heard"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "hew"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "hewed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "hewn"
+					},
+					{
+						"word": "hewed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "hide"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "hid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "hidden"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "hit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "hit"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "hit"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "hold"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "held"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "held"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "hurt"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "hurt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "hurt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "inbreed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "inbred"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "inbred"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "inlay"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "inlaid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "inlaid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "input"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "input"
+					},
+					{
+						"word": "inputted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "input"
+					},
+					{
+						"word": "inputted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "interbreed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "interbred"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "interbred"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "interweave"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "interwove"
+					},
+					{
+						"word": "interweaved"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "interwoven"
+					},
+					{
+						"word": "interweaved"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "interwind"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "interwound"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "interwound"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "jerry-build"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "jerry-built"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "jerry-built"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "keep"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "kept"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "kept"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "kneel"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "knelt"
+					},
+					{
+						"word": "kneeled"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "knelt"
+					},
+					{
+						"word": "kneeled"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "knit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "knitted"
+					},
+					{
+						"word": "knit"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "knitted"
+					},
+					{
+						"word": "knit"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "know",
+						"transcription": "ou"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "knew",
+						"transcription": "ju:"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "known",
+						"transcription": "ou"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "lay"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "laid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "laid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "lead"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "led"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "led"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "lean"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "leaned"
+					},
+					{
+						"word": "leant"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "leaned"
+					},
+					{
+						"word": "leant"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "leap"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "leaped"
+					},
+					{
+						"word": "leapt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "leaped"
+					},
+					{
+						"word": "leapt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "learn"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "learned"
+					},
+					{
+						"word": "learnt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "learned"
+					},
+					{
+						"word": "learnt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "leave"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "left"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "left"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "lend"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "lent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "lent"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "let"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "let"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "let"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "lie"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "lay"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "lain"
+					}
+				]
+			}
+		]
+	},
+	{
+		"regular": true,
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "lie",
+						"note": "not tell truth"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "lied"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "lied"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "light"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "lit"
+					},
+					{
+						"word": "lighted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "lit"
+					},
+					{
+						"word": "lighted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "lip-read"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "lip-read"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "lip-read"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "lose"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "lost"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "lost"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "make"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "made"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "made"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "mean"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "meant"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "meant"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "meet"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "met"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "met"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "miscast"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "miscast"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "miscast"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "misdeal"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "misdealt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "misdealt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "misdo"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "misdid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "misdone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "mishear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "misheard"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "misheard"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "mislay"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "mislaid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "mislaid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "mislead"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "misled"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "misled"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "mislearn"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "mislearned"
+					},
+					{
+						"word": "mislearnt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "mislearned"
+					},
+					{
+						"word": "mislearnt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "misread"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "misread"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "misread"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "misset"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "misset"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "misset"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "misspeak"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "misspoke"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "misspoken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "misspell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "misspelled"
+					},
+					{
+						"word": "misspelt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "misspelled"
+					},
+					{
+						"word": "misspelt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "misspend"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "misspent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "misspent"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "mistake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "mistook"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "mistaken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "misteach"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "mistaught"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "mistaught"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "misunderstand"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "misunderstood"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "misunderstood"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "miswrite"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "miswrote"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "miswritten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "mow"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "mowed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "mowed"
+					},
+					{
+						"word": "mown"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "offset"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "offset"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "offset"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outbid"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outbid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outbid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outbreed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outbred"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outbred"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outdo"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outdid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outdone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outdraw"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outdrew"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outdrawn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outdrink"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outdrank"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outdrunk"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outdrive"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outdrove"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outdriven"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outfight"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outfought"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outfought"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outfly"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outflew"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outflown"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outgrow"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outgrew"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outgrown"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outleap"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outleaped"
+					},
+					{
+						"word": "outleapt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outleaped"
+					},
+					{
+						"word": "outleapt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"regular": true,
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outlie",
+						"note": "not tell truth"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outlied"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outlied"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outride"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outrode"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outridden"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outrun"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outran"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outrun"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outsell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outsold"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outsold"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outshine"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outshined"
+					},
+					{
+						"word": "outshone"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outshined"
+					},
+					{
+						"word": "outshone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outshoot"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outshot"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outshot"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outsing"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outsang"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outsung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outsit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outsat"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outsat"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outsleep"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outslept"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outslept"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outsmell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outsmelled"
+					},
+					{
+						"word": "outsmelt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outsmelled"
+					},
+					{
+						"word": "outsmelt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outspeak"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outspoke"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outspoken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outspeed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outsped"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outsped"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outspend"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outspent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outspent"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outswear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outswore"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outsworn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outswim"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outswam"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outswum"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outthink"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outthought"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outthought"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outthrow"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outthrew"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outthrown"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "outwrite"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "outwrote"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "outwritten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overbid"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overbid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overbid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overbreed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overbred"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overbred"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overbuild"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overbuilt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overbuilt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overbuy"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overbought"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overbought"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overcome",
+						"transcription": "ʌ"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overcame",
+						"transcription": "ei"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overcome",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overdo"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overdid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overdone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overdraw"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overdrew"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overdrawn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overdrink"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overdrank"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overdrunk"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overeat"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overate"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overeaten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overfeed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overfed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overfed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overhang"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overhung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overhung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overhear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overheard"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overheard"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overlay"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overlaid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overlaid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overpay"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overpaid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overpaid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "override"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overrode"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overridden"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overrun"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overran"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overrun"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "oversee"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "oversaw"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overseen"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "oversell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "oversold"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "oversold"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "oversew"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "oversewed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "oversewn"
+					},
+					{
+						"word": "oversewed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overshoot"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overshot"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overshot"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "oversleep"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overslept"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overslept"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overspeak"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overspoke"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overspoken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overspend"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overspent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overspent"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overspill"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overspilled"
+					},
+					{
+						"word": "overspilt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overspilled"
+					},
+					{
+						"word": "overspilt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overtake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overtook"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overtaken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overthink"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overthought"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overthought"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overthrow"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overthrew"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overthrown"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overwind"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overwound"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overwound"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "overwrite"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "overwrote"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "overwritten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "partake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "partook"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "partaken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "pay"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "paid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "paid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "plead"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "pleaded"
+					},
+					{
+						"word": "pled"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "pleaded"
+					},
+					{
+						"word": "pled"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "prebuild"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "prebuilt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "prebuilt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "predo"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "predid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "predone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "premake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "premade"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "premade"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "prepay"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "prepaid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "prepaid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "presell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "presold"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "presold"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "preset"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "preset"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "preset"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "preshrink"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "preshrank"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "preshrunk"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "proofread"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "proofread"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "proofread"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "prove"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "proved"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "proven"
+					},
+					{
+						"word": "proved"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "put"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "put"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "put"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "quick-freeze"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "quick-froze"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "quick-frozen"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "quit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "quit"
+					},
+					{
+						"word": "quitted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "quit"
+					},
+					{
+						"word": "quitted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "read"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "read",
+						"note": "sounds like \"red\""
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "read",
+						"note": "sounds like \"red\""
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "reawake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "reawoke"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "reawaken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rebid"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rebid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rebid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rebind"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rebound"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rebound"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rebroadcast"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rebroadcast"
+					},
+					{
+						"word": "rebroadcasted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rebroadcast"
+					},
+					{
+						"word": "rebroadcasted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rebuild"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rebuilt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rebuilt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "recast"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "recast"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "recast"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "recut"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "recut"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "recut"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "redeal"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "redealt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "redealt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "redo"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "redid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "redone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "redraw"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "redrew"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "redrawn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "refit",
+						"note": "replace parts"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "refit"
+					},
+					{
+						"word": "refitted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "refit"
+					},
+					{
+						"word": "refitted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "refit",
+						"note": "retailor"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "refitted"
+					},
+					{
+						"word": "refit"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "refitted"
+					},
+					{
+						"word": "refit"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "regrind"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "reground"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "reground"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "regrow"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "regrew"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "regrown"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rehang"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rehung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rehung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rehear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "reheard"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "reheard"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "reknit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "reknitted"
+					},
+					{
+						"word": "reknit"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "reknitted"
+					},
+					{
+						"word": "reknit"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "relay",
+						"note": "for example tiles"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "relaid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "relaid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"regular": true,
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "relay",
+						"note": "pass along"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "relayed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "relayed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "relearn"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "relearned"
+					},
+					{
+						"word": "relearnt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "relearned"
+					},
+					{
+						"word": "relearnt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "relight"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "relit"
+					},
+					{
+						"word": "relighted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "relit"
+					},
+					{
+						"word": "relighted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "remake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "remade"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "remade"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "repay"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "repaid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "repaid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "reread"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "reread"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "reread"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rerun"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "reran"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rerun"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "resell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "resold"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "resold"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "resend"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "resent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "resent"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "reset"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "reset"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "reset"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "resew"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "resewed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "resewn"
+					},
+					{
+						"word": "resewed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "retake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "retook"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "retaken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "reteach"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "retaught"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "retaught"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "retear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "retore"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "retorn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "retell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "retold"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "retold"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rethink"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rethought"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rethought"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "retread"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "retread"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "retread"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "retrofit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "retrofitted"
+					},
+					{
+						"word": "retrofit"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "retrofitted"
+					},
+					{
+						"word": "retrofit"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rewake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rewoke"
+					},
+					{
+						"word": "rewaked"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rewaken"
+					},
+					{
+						"word": "rewaked"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rewear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rewore"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "reworn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "reweave"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rewove"
+					},
+					{
+						"word": "reweaved"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rewoven"
+					},
+					{
+						"word": "reweaved"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rewed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rewed"
+					},
+					{
+						"word": "rewedded"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rewed"
+					},
+					{
+						"word": "rewedded"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rewet"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rewet"
+					},
+					{
+						"word": "rewetted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rewet"
+					},
+					{
+						"word": "rewetted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rewin"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rewon"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rewon"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rewind"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rewound"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rewound"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rewrite"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rewrote"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rewritten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rid"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "ride"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rode"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "ridden"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "ring",
+						"transcription": "i"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rang",
+						"transcription": "æ"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "rung",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "rise"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "rose"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "risen"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "roughcast"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "roughcast"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "roughcast"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "run",
+						"transcription": "ʌ"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "ran",
+						"transcription": "æ"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "run",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sand-cast"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sand-cast"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sand-cast"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "saw"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sawed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sawed"
+					},
+					{
+						"word": "sawn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "say"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "said"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "said"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "see",
+						"transcription": "i:"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "saw",
+						"transcription": "ɔ:"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "seen",
+						"transcription": "i:"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "seek"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sought"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sought"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sold"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sold"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "send"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sent"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "set"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "set"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "set"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sew"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sewed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sewn"
+					},
+					{
+						"word": "sewed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "shake",
+						"transcription": "ei"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "shook",
+						"transcription": "u"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "shaken",
+						"transcription": "ei"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "shave"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "shaved"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "shaved"
+					},
+					{
+						"word": "shaven"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "shear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sheared"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sheared"
+					},
+					{
+						"word": "shorn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "shed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "shed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "shed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "shine"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "shined"
+					},
+					{
+						"word": "shone"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "shined"
+					},
+					{
+						"word": "shone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "shit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "shit"
+					},
+					{
+						"word": "shat"
+					},
+					{
+						"word": "shitted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "shit"
+					},
+					{
+						"word": "shat"
+					},
+					{
+						"word": "shitted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "shoot"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "shot"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "shot"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "show",
+						"transcription": "ou"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "showed",
+						"transcription": "ou"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "shown",
+						"transcription": "ou"
+					},
+					{
+						"word": "showed",
+						"transcription": "?"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "shrink"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "shrank"
+					},
+					{
+						"word": "shrunk"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "shrunk"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "shut"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "shut"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "shut"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sight-read"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sight-read"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sight-read"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sing",
+						"transcription": "i"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sang",
+						"transcription": "æ"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sung",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sink",
+						"transcription": "i"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sank"
+					},
+					{
+						"word": "sunk",
+						"transcription": "æ"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sunk",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sat"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sat"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "slay",
+						"note": "kill"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "slew"
+					},
+					{
+						"word": "slayed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "slain"
+					},
+					{
+						"word": "slayed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"regular": true,
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "slay",
+						"note": "amuse"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "slayed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "slayed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sleep"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "slept"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "slept"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "slide"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "slid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "slid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sling"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "slung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "slung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "slink"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "slinked"
+					},
+					{
+						"word": "slunk"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "slinked"
+					},
+					{
+						"word": "slunk"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "slit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "slit"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "slit"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "smell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "smelled"
+					},
+					{
+						"word": "smelt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "smelled"
+					},
+					{
+						"word": "smelt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sneak"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sneaked"
+					},
+					{
+						"word": "snuck"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sneaked"
+					},
+					{
+						"word": "snuck"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sow"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sowed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sown"
+					},
+					{
+						"word": "sowed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "speak"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "spoke"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "spoken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "speed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sped"
+					},
+					{
+						"word": "speeded"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sped"
+					},
+					{
+						"word": "speeded"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "spell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "spelled"
+					},
+					{
+						"word": "spelt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "spelled"
+					},
+					{
+						"word": "spelt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "spend"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "spent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "spent"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "spill"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "spilled"
+					},
+					{
+						"word": "spilt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "spilled"
+					},
+					{
+						"word": "spilt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "spin"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "spun"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "spun"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "spit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "spit"
+					},
+					{
+						"word": "spat"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "spit"
+					},
+					{
+						"word": "spat"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "split"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "split"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "split"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "spoil"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "spoiled"
+					},
+					{
+						"word": "spoilt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "spoiled"
+					},
+					{
+						"word": "spoilt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "spoon-feed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "spoon-fed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "spoon-fed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "spread"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "spread"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "spread"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "spring",
+						"transcription": "i"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sprang",
+						"transcription": "æ"
+					},
+					{
+						"word": "sprung",
+						"transcription": "ʌ"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sprung",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "stand"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "stood"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "stood"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "steal"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "stole"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "stolen"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "stick"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "stuck"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "stuck"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sting"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "stung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "stung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "stink"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "stunk"
+					},
+					{
+						"word": "stank"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "stunk"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "strew"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "strewed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "strewn"
+					},
+					{
+						"word": "strewed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "stride"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "strode"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "stridden"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "strike",
+						"note": "delete"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "struck"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "stricken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "strike",
+						"note": "hit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "struck"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "struck"
+					},
+					{
+						"word": "stricken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "string"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "strung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "strung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "strive"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "strove"
+					},
+					{
+						"word": "strived"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "striven"
+					},
+					{
+						"word": "strived"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sublet"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sublet"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sublet"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sunburn"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sunburned"
+					},
+					{
+						"word": "sunburnt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sunburned"
+					},
+					{
+						"word": "sunburnt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "swear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "swore"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sworn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sweat"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "sweat"
+					},
+					{
+						"word": "sweated"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "sweat"
+					},
+					{
+						"word": "sweated"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "sweep"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "swept"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "swept"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "swell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "swelled"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "swollen"
+					},
+					{
+						"word": "swelled"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "swim",
+						"transcription": "i"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "swam",
+						"transcription": "æ"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "swum",
+						"transcription": "ʌ"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "swing"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "swung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "swung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "take"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "took"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "taken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "teach"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "taught"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "taught"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "tear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "tore"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "torn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "telecast"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "telecast"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "telecast"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "tell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "told"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "told"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "test-drive"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "test-drove"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "test-driven"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "test-fly"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "test-flew"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "test-flown"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "think"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "thought"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "thought"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "throw",
+						"transcription": "ou"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "threw",
+						"transcription": "u"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "thrown",
+						"transcription": "ou"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "thrust"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "thrust"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "thrust"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "tread"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "trod"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "trodden"
+					},
+					{
+						"word": "trod"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "typecast"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "typecast"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "typecast"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "typeset"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "typeset"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "typeset"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "typewrite"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "typewrote"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "typewritten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unbend"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unbent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unbent"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unbind"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unbound"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unbound"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unclothe"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unclothed"
+					},
+					{
+						"word": "unclad"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unclothed"
+					},
+					{
+						"word": "unclad"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "underbid"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "underbid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "underbid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "undercut"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "undercut"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "undercut"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "underfeed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "underfed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "underfed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "undergo"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "underwent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "undergone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "underlie"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "underlay"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "underlain"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "undersell"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "undersold"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "undersold"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "underspend"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "underspent"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "underspent"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "understand"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "understood"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "understood"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "undertake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "undertook"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "undertaken"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "underwrite"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "underwrote"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "underwritten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "undo"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "undid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "undone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unfreeze"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unfroze"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unfrozen"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unhang"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unhung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unhung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unhide"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unhid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unhidden"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unknit"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unknitted"
+					},
+					{
+						"word": "unknit"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unknitted"
+					},
+					{
+						"word": "unknit"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unlearn"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unlearned"
+					},
+					{
+						"word": "unlearnt"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unlearned"
+					},
+					{
+						"word": "unlearnt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unsew"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unsewed"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unsewn"
+					},
+					{
+						"word": "unsewed"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unsling"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unslung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unslung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unspin"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unspun"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unspun"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unstick"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unstuck"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unstuck"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unstring"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unstrung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unstrung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unweave"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unwove"
+					},
+					{
+						"word": "unweaved"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unwoven"
+					},
+					{
+						"word": "unweaved"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "unwind"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "unwound"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "unwound"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "uphold"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "upheld"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "upheld"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "upset"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "upset"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "upset"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "wake"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "woke"
+					},
+					{
+						"word": "waked"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "woken"
+					},
+					{
+						"word": "waked"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "waylay"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "waylaid"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "waylaid"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "wear"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "wore"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "worn"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "weave"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "wove"
+					},
+					{
+						"word": "weaved"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "woven"
+					},
+					{
+						"word": "weaved"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "wed"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "wed"
+					},
+					{
+						"word": "wedded"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "wed"
+					},
+					{
+						"word": "wedded"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "weep"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "wept"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "wept"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "wet"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "wet"
+					},
+					{
+						"word": "wetted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "wet"
+					},
+					{
+						"word": "wetted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"regular": true,
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "whet"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "whetted"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "whetted"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "win"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "won"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "won"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "wind"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "wound"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "wound"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "withdraw",
+						"transcription": "ɔ:"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "withdrew",
+						"transcription": "u:"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "withdrawn",
+						"transcription": "ɔ:"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "withhold"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "withheld"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "withheld"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "withstand"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "withstood"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "withstood"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "wring"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "wrung"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "wrung"
+					}
+				]
+			}
+		]
+	},
+	{
+		"forms": [
+			{
+				"verb_form": "infinitive",
+				"variants": [
+					{
+						"word": "write"
+					}
+				]
+			},
+			{
+				"verb_form": "simple-past",
+				"variants": [
+					{
+						"word": "wrote"
+					}
+				]
+			},
+			{
+				"verb_form": "past-participle",
+				"variants": [
+					{
+						"word": "written"
+					}
+				]
+			}
+		]
+	}
+]
