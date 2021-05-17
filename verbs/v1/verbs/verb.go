@@ -1,4 +1,4 @@
-package main
+package verbs
 
 import (
 	"encoding/csv"
@@ -77,13 +77,13 @@ func LoadVerbs(filename string) ([]Verb, error) {
 	case ".json":
 		return loadVerbsJSON(filename)
 	case ".csv":
-		return loadVerbsV1CSV(filename, nil)
+		return LoadVerbsCSV(filename, nil)
 	default:
 	}
 	return nil, fmt.Errorf("file %q is not support", filename)
 }
 
-func loadVerbsV1CSV(filename string, keys []string) ([]Verb, error) {
+func LoadVerbsCSV(filename string, keys []string) ([]Verb, error) {
 	file, err := os.Open(filename)
 	if err != nil {
 		return nil, err
@@ -107,7 +107,7 @@ func loadVerbsV1CSV(filename string, keys []string) ([]Verb, error) {
 			}
 			return nil, err
 		}
-		ws, err := parseRecordVerb(record)
+		ws, err := ParseRecord(record)
 		if err != nil {
 			err = fmt.Errorf("record on line %d: %s", line, err)
 			return nil, err
@@ -122,7 +122,7 @@ func loadVerbsV1CSV(filename string, keys []string) ([]Verb, error) {
 }
 
 func verbByWFs(ws [][]*WordInfo, v *Verb) error {
-	for i, vf := range verbForms {
+	for i, vf := range allVerbForms {
 		v.SetValue(vf, ws[i][0].Word)
 	}
 	return nil
@@ -130,6 +130,8 @@ func verbByWFs(ws [][]*WordInfo, v *Verb) error {
 
 func printJSON(v interface{}) {
 	data, err := json.MarshalIndent(v, "", "\t")
-	checkError(err)
+	if err != nil {
+		panic(err)
+	}
 	fmt.Println(string(data))
 }

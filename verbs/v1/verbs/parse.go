@@ -1,4 +1,4 @@
-package main
+package verbs
 
 import (
 	"fmt"
@@ -9,13 +9,20 @@ const (
 	valuesSeparator = "/"
 )
 
-func parseRecordVerb(record []string) ([][]*WordInfo, error) {
-	n := len(verbForms)
+type WordInfo struct {
+	Word          string `json:"word"`
+	Note          string `json:"note,omitempty"`
+	Transcription string `json:"transcription,omitempty"`
+	Regular       bool   `json:"regular,omitempty"`
+}
+
+func ParseRecord(record []string) ([][]*WordInfo, error) {
+	n := len(allVerbForms)
 	if len(record) != n {
 		return nil, fmt.Errorf("wrong number of fields for record: have %d, want %d", len(record), n)
 	}
 	ws := make([][]*WordInfo, n)
-	for i := range verbForms {
+	for i := range allVerbForms {
 		w, err := parseField(record[i])
 		if err != nil {
 			err = fmt.Errorf("field index %d: %s", i, err)
@@ -44,20 +51,13 @@ func parseField(field string) ([]*WordInfo, error) {
 	return wis, nil
 }
 
-type WordInfo struct {
-	Word          string `json:"word"`
-	Note          string `json:"note,omitempty"`
-	Transcription string `json:"transcription,omitempty"`
-	Regular       bool   `json:"regular,omitempty"`
-}
-
 func ParseWordInfo(s string) (*WordInfo, error) {
 
 	var wi WordInfo
 
 	s = strings.TrimSpace(s)
 	f := func(r rune) bool {
-		return !IsSymbolOfWord(r)
+		return !isSymbolOfWord(r)
 	}
 	index := strings.IndexFunc(s, f)
 	if index == -1 {
@@ -113,7 +113,7 @@ func ParseWordInfo(s string) (*WordInfo, error) {
 }
 
 // unicode.IsSpace()
-func IsSymbolOfWord(r rune) bool {
+func isSymbolOfWord(r rune) bool {
 	if ('a' <= r) && (r <= 'z') {
 		return true
 	}

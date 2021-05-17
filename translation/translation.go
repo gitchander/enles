@@ -1,4 +1,4 @@
-package main
+package translation
 
 type Translation struct {
 	Language string   `json:"language"`
